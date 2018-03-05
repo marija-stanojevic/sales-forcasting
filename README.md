@@ -1,4 +1,4 @@
-<h3> Machine Learning Project: Grocery Sales Forecasting </h3>
+<h3> Machine Learning Project: Grocery Sales Forecasting (Nov 2017) </h3>
 
 This is done as a project on machine learning class. Data are taken from Kaggle competition Corporación Favorita Grocery Sales Forecasting (https://www.kaggle.com/c/favorita-grocery-sales-forecasting).
 
